@@ -11,8 +11,8 @@ comments: false
 
 ### Erfahrung
 
-Anzahl an Bestellungen: 2x
-Artikel: Hopfenpflanzen
+* Anzahl an Bestellungen: 2x
+* Artikel: Hopfenpflanzen
 
 #### Gut:
 * Gute Preise
