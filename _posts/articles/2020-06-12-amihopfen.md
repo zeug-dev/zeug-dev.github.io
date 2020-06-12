@@ -20,8 +20,9 @@ Artikel: Malz, Hefe, Technik
 * Ordentliche Verpackungen (stabil, vakuumverpackt)
 * Qualität der Produkte (Malz, Hefe)
 * Akzeptable Antwortzeiten auf Nachfragen (24h-48h)
+* Geliefert was bestellt wurde
 
 #### Verbesserungspotential:
 * Nur große Mengen an Hopfen
-* Gute Menge an Artikeln, die angezeigt aber nicht verfügbar waren
-* Geschrotung ordentliche Mehrkosten
+* Auswahl an Artikeln, die angezeigt aber nicht verfügbar waren
+* Schrotung ordentliche Mehrkosten
