@@ -19,6 +19,7 @@ Artikel: Malz, Hefe, Hopfen, Technik
 * Ordentliche Verpackungen (Wiederverwendbar, stabil, Vakuumverpackt)
 * Qualität der Produkte (Malz, Hefe, Hopfen)
 * Bestellmöglichkeiten: Grammgenau, geschrotet
+* Geliefert was bestellt wurde
 
 #### Verbesserungspotential:
 * Viele Produkte, aber nicht alles (z.B. Diastasemalz, Kveik)
