@@ -21,6 +21,7 @@ Artikel: Malz, Hefe, Technik
 * Qualität der Produkte (Malz, Hefe)
 * Akzeptable Antwortzeiten auf Nachfragen (24h-48h)
 * Geliefert was bestellt wurde
+* Verpackung in Ordnung
 
 #### Verbesserungspotential:
 * Nur große Mengen an Hopfen
