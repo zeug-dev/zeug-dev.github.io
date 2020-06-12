@@ -11,8 +11,8 @@ comments: false
 
 ### Erfahrung
 
-Anzahl an Bestellungen: 1x
-Artikel: Malz, Hefe, Technik
+* Anzahl an Bestellungen: 1x
+* Artikel: Malz, Hefe, Technik
 
 #### Gut:
 * Schneller Versand
