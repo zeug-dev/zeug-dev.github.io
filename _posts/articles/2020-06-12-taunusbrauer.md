@@ -12,12 +12,14 @@ comments: false
 ### Erfahrung
 
 Anzahl an Bestellungen: 3x
+Artikel: Malz, Hefe, Hopfen, Technik
 
-Gut:
+#### Gut:
 * Schneller Versand (2x schnell, 1x langsam/nach Nachfrage)
 * Ordentliche Verpackungen (Wiederverwendbar, stabil, Vakuumverpackt)
 * Qualität der Produkte (Malz, Hefe, Hopfen)
+* Bestellmöglichkeiten: Grammgenau, geschrotet
 
-Verbesserungspotential/Schlecht:
+#### Verbesserungspotential:
 * Viele Produkte, aber nicht alles (z.B. Diastasemalz, Kveik)
-* 
+* Versandkostenstaffelung: 1kg zu wenig um mehr als Hopfen oder Hefe zu kaufen
