@@ -11,23 +11,34 @@ comments: false
 
 ### Rezept
 
+#### Malz
 * XXXg Pilsner Malz (Weyermann)
 * XXXg CaraPils (Weyermann)
 
+#### Maischen
 * 20min 62°C
 * 40min 72°C
 
-* Xg Magnum
-* Xg Tettnager
+#### Hopfen
+* Xg Magnum @60min
+* Xg Tettnager @30min
+* Kochen: 90min
 
-* 90min
-
+#### Gärung
 * Safale S-04 14 Tage
 * 8g/l Zucker 14 Tage
 * 3°C x Tage
 
+#### Zahlen
+
+
 ### Brautag
 
+Verlauf, Probleme, Besonderheiten
 
 ### Ergebnis
+
+Beschreibung
+
+#### Zahlen
 
