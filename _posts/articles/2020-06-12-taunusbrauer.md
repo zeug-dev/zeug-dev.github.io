@@ -11,8 +11,8 @@ comments: false
 
 ### Erfahrung
 
-Anzahl an Bestellungen: 3x
-Artikel: Malz, Hefe, Hopfen, Technik
+* Anzahl an Bestellungen: 3x
+* Artikel: Malz, Hefe, Hopfen, Technik
 
 #### Gut:
 * Schneller Versand (2x schnell, 1x langsam/nach Nachfrage)
