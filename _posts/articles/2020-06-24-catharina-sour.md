@@ -12,7 +12,9 @@ image:
 {% include toc.html %}
 
 ### Rezept
-Authentisches Rezept: Eher nicht (Weizen, Munich)
+Authentisches Rezept: Eher nicht (Weizen, Munich, Zucker, Hefe)
+
+> BJCP X13 Beschreibung
 
 4.5l
 
@@ -47,10 +49,15 @@ Authentisches Rezept: Eher nicht (Weizen, Munich)
 
 ### Brautag
 
-Verlauf, Probleme, Besonderheiten
+#### Verlauf
+1. Einmischen
+2. Kochen
+
+#### Probleme & Besonderheiten
 
 * Zu kurz für Säuerung
 * Hefe legt zügig los
+* Zu dunkel geworden
 
 ### Ergebnis
 
