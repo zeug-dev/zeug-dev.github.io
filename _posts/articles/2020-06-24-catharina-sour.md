@@ -12,12 +12,12 @@ comments: false
 ### Rezept
 
 #### Malz
-* 350g Pilsner Malz (Viking)
-* 100g Munich Light (Viking)
-* 75g Weizen Malz (Viking)
-* 50g Sauermalz (Bestmalz)
-* 20g Cara Munich I (Weyermann)
-* XXg Karamelisierter Zucker
+* 48.5% (350g) Pilsner Malz (Viking)
+* 13.9% (100g) Munich Light (Viking)
+* 10.4% (75g) Weizen Malz (Viking)
+* 6.9% (50g) Sauermalz (Bestmalz)
+* 2.8% (20g) Cara Munich I (Weyermann)
+* 17.4% (125g) Karamelisierter Zucker
 
 #### Maischen
 * 120min 5°C
@@ -31,11 +31,11 @@ comments: false
 #### Gärung
 * 30ml Yakult (Lacto) 8h
 * 2g Lallemann Abbaye 14 Tage
+* 400ml (~10%) Aprikosenpüree
 * 8g/l Zucker 14 Tage
 * 3°C x Tage
 
 #### Zahlen
-
 
 ### Brautag
 
@@ -46,4 +46,4 @@ Verlauf, Probleme, Besonderheiten
 Beschreibung
 
 #### Zahlen
-
+* OG 9.9° Brix - 1.038
