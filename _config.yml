@@ -3,7 +3,7 @@
 title: "Beer brewing"
 description: "Homebrewed beer."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: bio-photo.jpg # 400x250 px default teaser image used in image archive grid
+teaser: beer.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://beer.voidptr.space
 feed:
