@@ -2,7 +2,7 @@
 layout: article
 title: "Gebräu: Catharina Sour"
 categories: articles
-modified: 2020-06-12T16:28:11-04:00
+modified: 2020-06-24T13:28:11-04:00
 tags: [beer]
 comments: false
 ---
@@ -10,6 +10,8 @@ comments: false
 {% include toc.html %}
 
 ### Rezept
+
+4.5l
 
 #### Malz
 * 48.5% (350g) Pilsner Malz (Viking)
@@ -31,7 +33,7 @@ comments: false
 #### Gärung
 * 30ml Yakult (Lacto) 8h
 * 2g Lallemann Abbaye 14 Tage
-* 400ml (~10%) Aprikosenpüree
+* 400ml (~10%) Aprikosenpüree 5 Tage
 * 8g/l Zucker 14 Tage
 * 3°C x Tage
 
