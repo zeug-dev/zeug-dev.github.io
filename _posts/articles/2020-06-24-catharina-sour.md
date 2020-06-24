@@ -5,6 +5,8 @@ categories: articles
 modified: 2020-06-24T13:28:11-04:00
 tags: [beer]
 comments: false
+image:
+  feature: bio-photo.jpg
 ---
 
 {% include toc.html %}
